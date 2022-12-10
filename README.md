@@ -18,18 +18,18 @@ reads the same forwards and backwards, like `"mom"` or `"racecar"`), and return
 `false` if it is not a palindrome.
 
 ```
-mom === mom // true
-true === eurt // false
+mum === mum // true
+trouble === elbuort // false
 make a function that returns true if a word is a palindrome and false if not.
-That means if the word is the same as the word in reverse should return true.
+That means if the word is the same as the word written in reverse should return true.
 ```
-To keep things simple, your function only needs to deal with lowercase strings
+Simply, your function only needs to deal with lowercase strings
 that are all letters (don't worry about spaces or special characters).
 
-Here are a few examples:
+for examples:
 
 ```txt
-Input: "madam"
+Input: "mom"
 Output: true
 
 Input: "robot"
